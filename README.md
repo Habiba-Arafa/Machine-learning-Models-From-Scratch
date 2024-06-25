@@ -9,7 +9,7 @@ For MNIST dataset :  implement neural network to classify handwritten digits
 For Iris dataset :  implement K-Nearest Neighbors and linear regression to classify the Iris flower species.
 
 
-Results
+# Results
 
 The results of the models on the respective datasets are as follows:
 
@@ -30,7 +30,7 @@ K-Nearest Neighbors (KNN)
 Accuracy: Achieved an accuracy of approximately 96% on the Iris test set.
 
 
-Dependencies
+# Dependencies
 
 Python 
 Pandas
